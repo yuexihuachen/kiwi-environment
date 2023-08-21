@@ -1,0 +1,29 @@
+{
+  "name": "kiwi-environment",
+  "version": "0.0.1",
+  "description": "Inspect NODE_ENV environment variable",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuexihuachen/kiwi-environment.git"
+  },
+  "author": "longwang",
+  "license": "ISC",
+  "keywords": [
+    "environment",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/yuexihuachen/kiwi-environment/issues"
+  },
+  "homepage": "https://github.com/yuexihuachen/kiwi-environment#readme"
+}
